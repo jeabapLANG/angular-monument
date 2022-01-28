@@ -1,0 +1,16 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a href="/home" class="navbar-brand">{{title}}</a>
+    <button class="nav-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle" (click)="collapsed = !collapsed">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse" [class.collapse]="collapsed" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <li class="nav-item" routerLinkActive="active">
+                <a class="nav-link" routerLink="/contact">Contact</a>
+            </li>
+            <li class="nav-item" routerLinkActive="active">
+                <a class="nav-link" routerLink="/monuments">Monuments</a>
+            </li>
+        </ul>
+    </div>
+</nav>

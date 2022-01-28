@@ -1,0 +1,5 @@
+<div class="container">
+    <div class="row">
+        <monument-component class="col-lg-4 align-items-stretch" *ngFor="let monument of getMonuments(); let i = index;" [monument]="monument" [id]="i"></monument-component>
+    </div>
+</div>
