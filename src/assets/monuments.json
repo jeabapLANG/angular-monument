@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Arc de Triomphe",
+        "description": "L'arc de triomphe de l’Étoile, souvent appelé simplement l'Arc de Triomphe1, est un monument situé à Paris, en un point haut à la jonction des territoires des 8e, 16e et 17e arrondissements, notamment au sommet de l'avenue des Champs-Élysées et de l'avenue de la Grande-Armée.",
+        "localisation": "48° 52' 26″ N, 2° 17' 42″ E",
+        "imageURL": "arc-de-triomphe.jpg",
+        "site": "http://www.paris-arc-de-triomphe.fr" 
+    },
+    {
+        "name": "Musee du Louvre",
+        "description": "Le musée du Louvre est un musée situé dans le 1er arrondissement de Paris, en France. Une préfiguration en est imaginée en 1775-1776 par le comte d'Angiviller, directeur général des Bâtiments du roi, comme lieu de présentation des chefs-d'œuvre de la collection de la Couronne.",
+        "localisation": "48° 51' 40″ N, 2° 20' 9″ E",
+        "imageURL": "musee-du-louvre.jpg",
+        "site": "https://www.louvre.fr"
+    },
+    {
+        "name": "Cathedrale Notre Dame",
+        "description": "La cathédrale Notre-Dame de Paris, communément appelée Notre-Dame, est l'un des monuments les plus emblématiques de Paris et de la France. Elle est située sur l'île de la Cité et est un lieu de culte catholique, siège de l'archidiocèse de Paris, dédiée à la Vierge Marie.",
+        "localisation": "48° 51' 11″ N, 2° 20' 59″ E",
+        "imageURL": "cathedrale-notre-dame.jpg",
+        "site": "https://www.notredamedeparis.fr"
+    },
+    {
+        "name": "Tour Eiffel",
+        "description": "La tour Eiffel est une tour de fer puddlé de 324 mètres de hauteur (avec antennes)o 1 située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7e arrondissement. Son adresse officielle est 5, avenue Anatole-France.",
+        "localisation": "48° 51' 30″ N, 2° 17' 40″ E",
+        "imageURL": "tour-eiffel.jpg",
+        "site": "https://www.toureiffel.paris/fr"
+    },
+    {
+        "name": "Chateau de Versailles",
+        "description": "Le château de Versailles est un château et un monument historique situé à Versailles dans les Yvelines, en France. Il fut la résidence principale des rois de France Louis XIV, Louis XV et Louis XVI.",
+        "localisation": "48° 48' 17,26″ N, 2° 7' 13,34″ E",
+        "imageURL": "chateau-de-versailles.jpg",
+        "site": "https://www.chateauversailles.fr"
+    },
+    {
+        "name": "Phare de l'ile vierge",
+        "description": "Construit de 1897 à 1902, d’une hauteur de 82,5 m, il est le plus haut phare d’Europe2 et le plus haut phare du monde en pierre de taille. Il balaie tout le nord du Finistère à 52 km à la ronde.",
+        "localisation": "48° 38' 40″ N, 4° 34' 10″ W",
+        "imageURL": "phare-de-l'ile-vierge.jpg",
+        "site": "https://www.pharesdefrance.fr/les-phares-a-voir/bretagne-pays-de-la-loire/phare-de-l-ile-vierge"
+    },
+    {
+        "name": "Palais des Papes",
+        "description": "Le palais des papes de Sorgues est la première résidence pontificale construite par la papauté d'Avignon au xive siècle. Il fut voulu par Jean XXII et sa construction précède de 18 ans celle du palais des papes d'Avignon. Cette demeure somptueuse a servi de modèle pour l'édification des livrées cardinalices avignonnaises.",
+        "localisation": "44° 0' 49″ N, 4° 52' 23″ E",
+        "imageURL": "palais-des-papes.jpg",
+        "site": "http://palais-des-papes.com/fr"
+    },
+    {
+        "name": "Pont du Gard",
+        "description": "Le pont du Gard est un pont à trois niveaux destiné au passage d'un aqueduc romain. Il est situé à Vers-Pont-du-Gard entre Uzès et Remoulins, non loin de Nîmes, dans le département français du Gard. Il enjambe le Gardon",
+        "localisation": "43° 56' 50″ N, 4° 32' 8″ E",
+        "imageURL": "pont-du-gard.jpg",
+        "site": "https://www.pontdugard.fr/"
+    },
+    {
+        "name": "Phare Pertusato",
+        "description": "Le phare de Pertusato domine le cap de Pertusato à 4 km au sud-est de Bonifacio en Corse-du-Sud. Il balise la côte sud de la Corse et l'entrée du port de Bonifacio.",
+        "localisation": "41° 22' 3″ N, 9° 11' 04″ E",
+        "imageURL": "phare-pertusato.jpg",
+        "site": "https://www.familiscope.fr/sorties-famille/visites/phare-de-pertusato-corse-du-sud/"
+    },
+    {
+        "name": "Cimetiere americain Colleville",
+        "description": "Le cimetière américain de Colleville-sur-Mer (en anglais : « Normandy American Cemetery and Memorial ») est un cimetière militaire américain situé juste au-dessus de la plage dite d’Omaha Beach, dans la commune française de Colleville-sur-Mer (Calvados) sur l'un des sites du débarquement allié du 6 juin 1944.",
+        "localisation": "49° 21' 37″ N, 0° 51' 26″ O",
+        "imageURL": "cimetiere-americain-colleville.jfif",
+        "site": "https://www.calvados-tourisme.com/offre/normandy-american-cemetery/"
+    },
+    {
+        "name": "Dune du Pilat",
+        "description": "La dune du Pilat est une dune située en bordure du massif forestier des Landes de Gascogne, sur la côte d'Argent à l'entrée du bassin d'Arcachon, en région Nouvelle-Aquitaine. C'est la plus haute dune d’Europe (hauteur en 2020 : 102,5 m2).",
+        "localisation": "44° 35' 23″ N, 1° 12' 49″ E",
+        "imageURL": "dune-du-pilat.jpg",
+        "site": "https://ladunedupilat.com"
+    },
+    {
+        "name": "Phare de Cordouan",
+        "description": "Le phare de Cordouan est un phare situé à sept kilomètres en mer sur le plateau de Cordouan, à l'embouchure de l'estuaire de la Gironde, estuaire formé par la confluence de la Garonne et de la Dordogne, donnant dans l'océan Atlantique.",
+        "localisation": "45° 35' 11″ N, 1° 10' 24″ O",
+        "imageURL": "phare-de-cordouan.jpg",
+        "site": "https://www.phare-de-cordouan.fr/en/home/"
+    },
+    {
+        "name": "Fondation Louis Vuitton",
+        "description": "La fondation d'entreprise Louis-Vuitton, anciennement fondation d'entreprise Louis-Vuitton pour la création1 lancée en octobre 2006, est créée par le groupe LVMH et ses maisons. Elle a pour objectif de pérenniser les actions de mécénat engagées depuis 1990 par le groupe.",
+        "localisation": "48° 52' 36″ N, 2° 15' 48″ E",
+        "imageURL": "fondation-louis-vuitton.jfif",
+        "site": "https://www.fondationlouisvuitton.fr/fr"
+    },
+    {
+        "name": "Alignements de Carnac",
+        "description": "Les alignements de Carnac forment un site d'alignements mégalithiques exceptionnel situé sur les communes de Carnac et de La Trinité-sur-Mer dans le département du Morbihan en Bretagne, la région de Carnac réunissant la plus forte concentration de mégalithes du monde.",
+        "localisation": "47° 35' 36″ N, 3° 04' 47″ O",
+        "imageURL": "alignements-de-carnac.jpg",
+        "site": "http://www.menhirs-carnac.fr"
+    },
+    {
+        "name": "Domaine de Vizille",
+        "description": "Le château de Vizille (prononcer [vi.zil]) également appelé Domaine départemental de Vizille est un parc de cent hectares dans lequel est situé le château Lesdiguières abritant le musée de la Révolution française. Le château du xviie siècle se dresse sur la commune de Vizille dans le département de l'Isère et la région Auvergne-Rhône-Alpes.",
+        "localisation": "45° 04' 31″ nord, 5° 46' 23″ est",
+        "imageURL": "domaine-de-vizille.jpg",
+        "site": "https://musees.isere.fr/musee/domaine-de-vizille-musee-de-la-revolution-francaise"
+    }
+]
